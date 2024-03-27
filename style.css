@@ -59,7 +59,7 @@ nav {
 }
 
 .company-logo img {
-    width: 120px;
+    width: 100px;
 }
 
 .nav-links ul {
@@ -151,4 +151,33 @@ main {
 
 .news-source {
     margin-block: 12px;
+}
+
+.links{
+    gap: 600px;
+    row-gap: 40px;
+    color:black;
+
+}   
+.social-icons{
+    row-gap: 40px;
+    line-height: 2.4rem;
+    color: white;
+    
+}
+.all{
+    color: white;
+
+}
+footer{
+    background-color:var(--primary-text-color);
+    
+}
+
+.contact a{
+    margin-left: 100px;
+}
+
+a {
+    color: white;
 }
